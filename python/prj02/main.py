@@ -61,3 +61,12 @@
 # #차집합
 # result = a - b
 # print(result)
+
+# 이게 지도학습
+age = int(input("당신의 나이는? "))
+result = age >= 20
+
+if result:
+    print("adult~~~")
+else:
+    print("not ~~~")
