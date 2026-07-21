@@ -19,3 +19,9 @@ else :
     실행코드
 
 '''
+# if
+
+if False:
+    print('hello world')
+
+print('hello world')
